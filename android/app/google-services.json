@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103429393553",
+    "project_id": "lista-de-contatos-584c4",
+    "storage_bucket": "lista-de-contatos-584c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103429393553:android:df4a7fb2e41e2bb3bf0330",
+        "android_client_info": {
+          "package_name": "com.brunocardozo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv8AfmHdCQZzNOIj19YKooWhm6ryrajf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
